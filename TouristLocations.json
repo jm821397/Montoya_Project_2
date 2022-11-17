@@ -1,7 +1,7 @@
 {
   "TouristLocations":
   [
-    {"LocationName":"Plitvice Lakes"},
+    {"LocationName":"Plitvice Lakes","LocationLatitude":44.9},
     {"LocationName":"Taj Mahal"}
   ],
   "Status":"OK"
