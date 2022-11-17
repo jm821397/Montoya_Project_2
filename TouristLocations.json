@@ -1,6 +1,7 @@
 {
   "TouristLocations":
   [
+    {"LocationName":"Great Barrier Reef","LocationLatitude":18.2871,"LocationLongitude":147.6992},
     {"LocationName":"Plitvice Lakes","LocationLatitude":44.8654,"LocationLongitude":15.5820},
     {"LocationName":"Taj Mahal","LocationLatitude":27.1751,"LocationLongitude":78.0421}
   ],
